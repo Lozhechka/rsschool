@@ -26,7 +26,7 @@ function boolToWord( bool ){
 }
 ```
 
-## __Eduation__
+## __Education__
 + __Bachelor of Science__ (2016 - 2020)<br>
     Southern Federal University, Rostov-on-Don<br>
     Institute of Computer Technologies and Information Security, Information Security Specialist
@@ -36,4 +36,4 @@ function boolToWord( bool ){
 
 ## __Language__
 + __Russian__ - native speaker
-+ __English__ level - A2
++ __English level__  - A2
