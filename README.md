@@ -1,1 +1,1 @@
-https://Lozhechka.github.io/rsschool/
+https://Lozhechka.github.io/rsschool/index.html
